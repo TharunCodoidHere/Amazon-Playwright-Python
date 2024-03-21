@@ -19,7 +19,7 @@ behave path_to_feature_file
 
 behave -f allure_behave.formatter:AllureFormatter -o my_allure
 
-allure generate allure-results --clean -o my_allure
+allure generate allure-results --clean -o my_allure 
 
 allure serve my_allure
 
@@ -27,3 +27,7 @@ allure serve my_allure
 
 ### Contributors
 - Tharunkumar Kadiravan(@tharun)
+
+## Manual Testing( Google sheet link)
+
+https://docs.google.com/spreadsheets/d/1nAan6bWhXLLPdTOrfKdInd2kcWVzAhjeNtopvdRbbAs/edit?usp=sharing 
